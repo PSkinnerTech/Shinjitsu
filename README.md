@@ -1,8 +1,12 @@
-![Shinjitsu](https://drive.google.com/file/d/1S0e0nbI5VBvsHh-3--7O64ww7ZHRV2SD/view?usp=sharing)
+![Shinjitsu](https://cdn.hashnode.com/res/hashnode/image/upload/v1697637531432/dba763c7-184e-417a-95b2-833b46d3f7e5.png?auto=compress,format&format=webp)
 
 # Shinjitsu
 
 Shinjitsu is a Web3 application aimed at objectifying rank and skill within the Brazilian Jiu Jitsu (BJJ) community. It leverages blockchain technology to address various issues such as subjective promotions, rank misrepresentation, and unfair competition in BJJ.
+
+## Demo Video
+
+[![Demo Video](./assets/demo-video-image.png)](https://www.loom.com/share/a8335a5cbbb841868c4624ca2d27c2cd)
 
 ## Table of Contents
 
