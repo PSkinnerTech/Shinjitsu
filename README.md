@@ -1,3 +1,5 @@
+![Shinjitsu](https://drive.google.com/file/d/1S0e0nbI5VBvsHh-3--7O64ww7ZHRV2SD/view?usp=sharing)
+
 # Shinjitsu
 
 Shinjitsu is a Web3 application aimed at objectifying rank and skill within the Brazilian Jiu Jitsu (BJJ) community. It leverages blockchain technology to address various issues such as subjective promotions, rank misrepresentation, and unfair competition in BJJ.
@@ -170,10 +172,6 @@ Follow these steps to set up and install the Shinjitsu project locally on your m
    - Scan the QR code displayed in the Expo DevTools on your web browser to open the application on your mobile device.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-## Contribution Guidelines
-
-[Provide guidelines for developers who wish to contribute to the project.]
 
 ## License
 
